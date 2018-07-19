@@ -65,7 +65,7 @@ var template = '\
 	<a href="/surutcra.html">Surutcra - A Twitter client</a><br><br> \
 	<a href="/ncforward.html">NCForward - Forward your notifications</a><br><br> \
     <a href="/common-theos-problems.html">A collection of common THEOS problems</a><br><br> \
-	<a href="http://github.com/H6nry/" target="_blank">Github</a><br><br> \
+	<a href="http://github.com/facydia/" target="_blank">Github</a><br><br> \
 </nav> \
 <aside class="tp-dync"> \
 	<h4>News</h4> \
